@@ -3,34 +3,34 @@
 **[Secuencia de apertura: Montaje rápido y electrizante de imágenes tecnológicas—tarjetas de circuito, pantallas de código, dispositivos futuristas y flujos de datos vibrantes—acompañados de una pista energética y animada.]**
 
 **Narrador (Voz en off):**  
-*"¿Alguna vez has sentido que el argot tecnológico está hablando en un idioma que no puedes descifrar? ¿Términos como ‘computación en la nube’, ‘blockchain’ o ‘aprendizaje automático’ te suenan a galimatías—o peor, como un código secreto para mantenerte fuera de la conversación?"*
+*"¿Alguna vez te ha pasado que el lenguaje tecnológico te suena como un idioma que no puedes descifrar? Términos como ‘computación en la nube’, ‘blockchain’ o ‘aprendizaje automático’ ¿te parecen un galimatías—o incluso un código secreto para dejarte fuera de la conversación?"*
 
-**[Corte rápido: Un grupo de personas viendo confundidas presentaciones tecnológicas, pantallas de código y tutoriales en línea.]**
+**[Corte rápido: Un grupo de personas viéndose confundidas por presentaciones tecnológicas, pantallas de código y tutoriales en línea.]**
 
 **Narrador (Voz en off):**  
-*"Pues es hora de cambiar eso. Es hora de 'lavarte el cerebro' para dominar el idioma del futuro. Bienvenidos a la *Serie de Terminología Tecnológica*—donde convertimos el lenguaje tecnológico en tu segundo idioma."*
+*"Pues llegó el momento de cambiar eso. Es hora de 'lavarte el cerebro' y dominar el idioma del futuro. Bienvenidos a la *Serie de Terminología Tecnológica*—donde el lenguaje tecnológico se convierte en tu segundo idioma."*
 
 **[Visual: Texto en pantalla—“LÁVATE EL CEREBRO CON TÉRMINOS TECNOLÓGICOS”]**
 
 **Narrador (Voz en off):**  
-*"Ya seas un profesional experimentado, un curioso principiante, o alguien que está en medio, vamos a desglosar los términos tecnológicos que están moldeando nuestro mundo—un episodio a la vez."*
+*"Ya seas un experto, un curioso principiante o alguien en medio de los dos, aquí desglosaremos los términos tecnológicos que están transformando nuestro mundo—un episodio a la vez."*
 
-**[Corte a la presentadora en un espacio tecnológico moderno y elegante.]**
+**[Corte a presentador en un espacio moderno y elegante, lleno de tecnología.]**
 
-**Presentadora (Sonriendo, mirando directo a cámara):**  
-*"Yo soy [Nombre de la presentadora], y en esta serie, te llevaremos en un viaje a través de los términos esenciales (y algunos no tan obvios) que necesitas conocer. Al final de esta serie, serás fluido en el idioma de la tecnología."*
+**Presentador (Sonriendo, mirando directo a cámara):**  
+*"Yo soy [Nombre del presentador], y en esta serie te llevaremos en un viaje a través de los términos esenciales (y algunos que no son tan obvios) que necesitas conocer. Al final de esta serie, serás fluido en el idioma de la tecnología."*
 
-**[Corte rápido: Transiciones llamativas mostrando términos clave como "API", "Computación Cuántica", "5G", "Realidad Virtual" apareciendo en la pantalla.]**
+**[Corte rápido: Transiciones dinámicas mostrando términos clave como "API", "Computación Cuántica", "5G", "Realidad Virtual" apareciendo en la pantalla.]**
 
 **Narrador (Voz en off):**  
-*"La tecnología está evolucionando más rápido que nunca. No dejes que el lenguaje te detenga. ¡Vamos a sumergirnos!"*
+*"La tecnología avanza más rápido que nunca. No dejes que el lenguaje te frene. ¡Es momento de sumergirse!"*
 
 **[Texto en pantalla: “¿Listo para lavarte el cerebro?”]**
 
-**Presentadora (Sonriendo):**  
-*"¡Vamos a comenzar!"*
+**Presentador (Sonriendo):**  
+*"¡Vamos a empezar!"*
 
-**[La música se eleva, y la pantalla hace la transición al primer tema.]**
+**[La música se eleva, y la pantalla transita al primer tema.]**
 
 ---
 
