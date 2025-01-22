@@ -23,7 +23,7 @@
 **[Corte rápido: Transiciones dinámicas mostrando términos clave como "API", "Computación Cuántica", "5G", "Realidad Virtual" apareciendo en la pantalla.]**
 
 **Narrador (Voz en off):**  
-*"La tecnología avanza más rápido que nunca. No dejes que el lenguaje te frene. ¡Es momento de sumergirse!"*
+*"La tecnología avanza más rápido que nunca. No dejes que el lenguaje te frene. ¡Es momento de darle duro!"*
 
 **[Texto en pantalla: “¿Listo para lavarte el cerebro?”]**
 
