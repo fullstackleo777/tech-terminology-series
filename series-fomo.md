@@ -23,7 +23,7 @@
 **Narrator (Voiceover):**  
 *"Because in the world we live in, not knowing tech isn’t just ignorance—it’s a disadvantage you can’t afford. Stay tuned and let’s fix that together."*
 
-**[Bold Text on Screen: “Tech Terminology Series: BRAINWASH YOURSELF, TECH TERMINOLOGY.”]**
+**[Bold Text on Screen: “Tech Terminology Series: BRAINWASH YOURSELF WITH TECH TERMS”]**
 
 **Host (Grinning):**  
 *"Let’s get you one step closer to becoming fluent in the language of tech. Ready? Let’s dive in!"*

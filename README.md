@@ -1,2 +1,2 @@
 # tech-terminology-series
-Brainwash yourself, tech terminology
+Brainwash yourself with tech terms

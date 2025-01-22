@@ -10,7 +10,7 @@
 **Narrator (Voiceover):**  
 *“Well, it’s time to change that. It’s time to brainwash yourself into mastering the language of the future. Welcome to the *Tech Terminology Series*—where we turn tech talk into your second language.”*
 
-**[Visual: Bold text on screen—“BRAINWASH YOURSELF. TECH TERMINOLOGY.”]**
+**[Visual: Bold text on screen—“BRAINWASH YOURSELF WITH TECH TERMS”]**
 
 **Narrator (Voiceover):**  
 *“Whether you're a seasoned pro, a curious noob, or somewhere in between, we’re breaking down the tech terms that shape our world—one episode at a time.”*
