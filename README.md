@@ -160,3 +160,54 @@ Potential terms for future episodes:
 - 5G
 
 ___
+
+## Contributing
+
+Contributions are welcome.
+
+Good ways to contribute:
+
+- Add a new tech term script
+- Improve an existing script
+- Add Spanish translations
+- Add another language
+- Organize audio assets
+- Improve attribution formatting
+- Suggest production ideas
+- Add links to published episodes
+
+When contributing a new episode, try to keep the tone:
+
+- Clear
+- Beginner-friendly
+- High-energy
+- Practical
+- Easy to produce as video content
+
+___
+
+## Attribution
+
+Some audio assets in this repository come from external creators and may require attribution.
+
+Before using audio in a published video, check the related attribution file inside each `sounds/` folder.
+
+___
+
+## License
+
+This repository is licensed under the [GNU General Public License v3.0](./LICENSE).
+
+Audio assets may have separate attribution or usage requirements. See the attribution files in the `sounds/` directory before reusing them.
+
+___
+
+## Creator
+
+Created by **FullStackLeo**.
+
+Website: [fullstackleo.net](https://fullstackleo.net)
+
+**Brainwash Yourself with Tech Terminology.**
+
+___
