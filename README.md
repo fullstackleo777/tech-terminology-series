@@ -44,3 +44,119 @@ ___
 | Tech FOMO | Explains why not understanding tech terms can cost time, opportunities, and digital safety | [series-fomo.md](./series-fomo.md) | [es/series-fomo.md](./es/series-fomo.md) |
 
 ___
+
+## Audio Assets
+
+The `sounds/` directory contains production audio that can be used to support video editing.
+
+| Folder | Purpose |
+|___|___|
+| [`sounds/effects`](./sounds/effects) | Glitches, beeps, static, crashes, transitions, and UI-style sound effects |
+| [`sounds/music`](./sounds/music) | Background music and loops |
+| [`sounds/voices`](./sounds/voices) | Voice-like clips, crowd reactions, alien-style sounds, and announcement effects |
+
+Audio files may have their own attribution or license requirements. Check the attribution files before publishing:
+
+- [`sounds/effects/attributions.md`](./sounds/effects/attributions.md)
+- [`sounds/music/attributions.md`](./sounds/music/attributions.md)
+- [`sounds/voices/attributions.md`](./sounds/voices/attributions.md)
+
+___
+
+## Repository Structure
+
+```text
+tech-terminology-series/
+├── es/
+│   ├── series-fomo.md
+│   └── series-intro.md
+├── sounds/
+│   ├── effects/
+│   ├── music/
+│   └── voices/
+├── LICENSE
+├── README.md
+├── series-fomo.md
+└── series-intro.md
+```
+
+___
+
+## How to Use This Project
+
+You can use this repository as a starting point for producing short-form or long-form educational tech videos.
+
+Suggested workflow:
+
+1. Pick a script from the episode table.
+2. Review the narration, host lines, and visual directions.
+3. Choose supporting audio from the `sounds/` folders.
+4. Edit the video using the script as your production guide.
+5. Credit any audio assets that require attribution.
+6. Publish the episode and add the final link back to this README.
+
+___
+
+## Suggested Episode Format
+
+Future episodes can follow this structure:
+
+```md
+# Term Name
+
+## Hook
+A quick, relatable reason the viewer should care.
+
+## Simple Definition
+Explain the term in plain language.
+
+## Analogy
+Compare the term to something familiar.
+
+## Real-World Example
+Show where the viewer might encounter it.
+
+## Why It Matters
+Explain the practical value.
+
+## Common Misunderstanding
+Clear up one misconception.
+
+## Outro
+Recap the term and tease the next episode.
+```
+
+___
+
+## Planned Topics
+
+Potential terms for future episodes:
+
+- API
+- DNS
+- HTTP vs HTTPS
+- Cloud Computing
+- Database
+- Cache
+- Encryption
+- Authentication
+- Two-Factor Authentication
+- Phishing
+- Server
+- Client
+- Frontend
+- Backend
+- Full Stack
+- Open Source
+- Git
+- GitHub
+- Docker
+- CI/CD
+- Artificial Intelligence
+- Machine Learning
+- Blockchain
+- Quantum Computing
+- Virtual Reality
+- 5G
+
+___
